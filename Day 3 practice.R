@@ -138,4 +138,4 @@ D
 11. What is the relationship between the Deviance and the sum of squared residuals, 
     assuming Normal distribution?
 
-
+#need to work
